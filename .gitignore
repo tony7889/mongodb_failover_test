@@ -30,3 +30,6 @@ htmlcov/
 # Editor and OS files
 .vscode/
 .DS_Store
+
+certs/
+startup.sh
